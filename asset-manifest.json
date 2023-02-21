@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/capstone-little-lemon/static/css/main.428696ff.css",
+    "main.js": "/capstone-little-lemon/static/js/main.0cab31cb.js",
+    "static/js/787.704b9089.chunk.js": "/capstone-little-lemon/static/js/787.704b9089.chunk.js",
+    "static/media/couple.jpg": "/capstone-little-lemon/static/media/couple.b9a025df5c3feecf1d02.jpg",
+    "index.html": "/capstone-little-lemon/index.html",
+    "main.428696ff.css.map": "/capstone-little-lemon/static/css/main.428696ff.css.map",
+    "main.0cab31cb.js.map": "/capstone-little-lemon/static/js/main.0cab31cb.js.map",
+    "787.704b9089.chunk.js.map": "/capstone-little-lemon/static/js/787.704b9089.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.428696ff.css",
+    "static/js/main.0cab31cb.js"
+  ]
+}
